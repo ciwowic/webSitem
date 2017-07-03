@@ -1,0 +1,45 @@
+h1{
+color:#423f2d;
+font-size: 18px;
+}
+.cizgi{
+    max-width: 100%;
+    background-color: #ffd800;
+    border-radius: 5px;
+}
+img{
+    float: left;
+    max-width: 50px;
+    width:100%;
+    height: 50%;
+    height: 50px;
+}
+
+.cizgi2{
+    margin-top: 100px;
+    max-width: 100%;
+    background-color:#ffd800;
+    height: 50px;
+        border-radius: 5px;
+}
+
+.footer{
+    height: 50px;
+}
+
+.menu{
+    /*float: left;*/
+    position: relative;
+}
+.menu li{
+    display: inline-block;
+    padding-left: 50px;
+}
+a:hover{
+    color:yellow;
+    
+}
+
+img2{
+    max-width: 100%;
+}
